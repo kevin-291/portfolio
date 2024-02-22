@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               student{" "}
             </span>
-            based in Kerala, India. I'm passionate about 
+            based in Kerala, India. I&#39;m passionate about 
             harnessing the power of Artificial Intelligence 
             and Machine Learning to make life easier and more meaningful.
           </p>
