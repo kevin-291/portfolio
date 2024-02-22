@@ -40,8 +40,8 @@ const AboutSection = () => {
             <br />
             <p>
               I have a keen interest in Artificial Intelligence and Machine Learning, 
-              and I'm passionate about exploring the endless possibilities in this field. 
-              As a third-year student, I've been actively involved in various projects and 
+              and I&#39;m passionate about exploring the endless possibilities in this field. 
+              As a third-year student, I&#39;ve been actively involved in various projects and 
               coursework related to AI and ML, constantly seeking to deepen my understanding 
               and expand my skills.
             </p>
